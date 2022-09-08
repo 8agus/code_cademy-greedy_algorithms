@@ -77,3 +77,10 @@ A greedy algorithm builds up a solution for an optimization problem by making th
 * The optimal substructure property
     * The greedy property
     * Back
+
+
+## Intro to Dijkstra's Algorithm: Conceptual
+
+
+https://content.codecademy.com/programs/cs-path/dijkstra's%20conceptual/Dijkstra's%20Conceptual.mp4
+
